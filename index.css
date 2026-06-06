@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: aqua;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: #333;
+}
+button{
+  text-align: center;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+button:active {
+  background-color: #0056b3;
+}
+p{
+  font-size: 18px;
+  color: #333;
+  /* margin-left: 300px; */
+}
+.div{
+  text-align: center;
+  align-items: center;
+  padding: 5px 30px;
+}
+.name-display {
+  text-align: left;
+  width: 400px;
+}
+h2{
+  font-size: 30px;
+  color: #333;
+}
